@@ -1,2 +1,2 @@
 # Grace-MasikaRepo
-Our first Microverse coding challenges
+This is Grace and Masika README
